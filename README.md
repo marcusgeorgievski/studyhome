@@ -4,9 +4,9 @@
 
 ## Team
 
-Marcus Georgievski • [GitHub]()
-Liam Toye • [GitHub](https://github.com/lctoye)
-Dai Dung Lam • [GitHub](https://github.com/NoneNeko)
+Marcus Georgievski • [GitHub](https://github.com/marcusgeorgievski) \
+Liam Toye • [GitHub](https://github.com/lctoye) \
+Dai Dung Lam • [GitHub](https://github.com/NoneNeko) \
 Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 
 ## Frontend
