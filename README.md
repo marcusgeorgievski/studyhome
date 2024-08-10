@@ -9,6 +9,10 @@ Liam Toye • [GitHub](https://github.com/lctoye) \
 Dai Dung Lam • [GitHub](https://github.com/NoneNeko) \
 Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 
+<br/>
+
+**Presentation**: [Watch on YouTube](https://youtu.be/Oj-fDkaS6Os)
+
 ## Frontend
 
 `GitHub`: https://github.com/marcusgeorgievski/prj-frontend \
