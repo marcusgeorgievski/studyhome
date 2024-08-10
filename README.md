@@ -14,6 +14,10 @@ Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 `GitHub`: https://github.com/marcusgeorgievski/prj-frontend \
 `Live`: https://prj-frontend.vercel.app
 
+### Usage
+
+Go to our [website](https://prj-frontend.vercel.app) and sign up with your Google account. That's it!
+
 ### Local Usage
 
 **1. Clone repository and install dependencies**
