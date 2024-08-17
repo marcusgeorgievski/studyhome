@@ -2,7 +2,7 @@
 
 > All-in-one Student Management Platform to organize your classes, notes, and assessments.
 
-## Team
+## Contributors
 
 Marcus Georgievski • [GitHub](https://github.com/marcusgeorgievski) \
 Liam Toye • [GitHub](https://github.com/lctoye) \
@@ -11,7 +11,7 @@ Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 
 <br/>
 
-**Presentation**: [Watch on YouTube](https://youtu.be/Oj-fDkaS6Os)
+**Demo**: [Watch on YouTube](https://youtu.be/Oj-fDkaS6Os)
 
 ## Frontend
 
@@ -20,7 +20,7 @@ Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 
 ### Usage
 
-Go to our [website](https://prj-frontend.vercel.app) and sign up with your Google account. That's it!
+Go to our [website](https://prj-frontend.vercel.app) and sign up with your Google account.
 
 ### Local Usage
 
@@ -34,7 +34,7 @@ npm i
 
 **2. Include .env file with environment variables**
 
-*Reach out to a team member for this private data.*
+_Reach out to a team member for this private data._
 
 **3. Run the code**
 
@@ -50,7 +50,6 @@ npm run start
 **4. Access the site**
 
 Access the site at [http://localhost:3000](http://localhost:3000) and login with your Google account.
-
 
 ## Backend
 
@@ -69,7 +68,7 @@ npm i
 
 **2. Include .env file with environment variables**
 
-*Reach out to a team member for this private data.*
+_Reach out to a team member for this private data._
 
 **3. Run the code**
 
@@ -81,19 +80,8 @@ npm run start
 
 Access the server health check at [http://localhost:8080](http://localhost:8080).
 
-
 ## Software and Architecture
 
-![Workflow](/assets/work.png)
+![Workflow](/assets/workflow.png)
 ![Architecture Diagram](/assets/arch.png)
-
-
-## Preview
-
-### Landing Page
-
-![Landing Page](/assets/landing.png)
-
-### Dashboard
-
-![Dashboard Page](/assets/dashboard.png)
+![Database](/assets/db.png)
