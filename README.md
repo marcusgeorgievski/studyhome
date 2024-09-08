@@ -20,7 +20,7 @@ Manoj Dhami • [GitHub](https://github.com/Dmanoj07)
 
 ### Usage
 
-Go to our [website](https://prj-frontend.vercel.app) and sign up with your Google account.
+Go to our [website](https://studyhome.vercel.app) and sign up with your Google account.
 
 ### Local Usage
 
